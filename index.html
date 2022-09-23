@@ -100,9 +100,9 @@
       ).addTo(map);
 
       // use D3 fetch to request data with async requests
-      const hoodsData = d3.json("../data/boston-neighborhoods.json");
-      const colorsData = d3.json("../data/vividcolors.json");
-      const mailboxData = d3.json("../data/boston-mailboxes.json");
+      const hoodsData = d3.json("data/boston-neighborhoods.json");
+      const colorsData = d3.json("data/vividcolors.json");
+      const mailboxData = d3.json("data/boston-mailboxes.json");
 
       // use Promise to wait until data is all loaded
       Promise.all([hoodsData, colorsData, mailboxData]).then(drawMap);
@@ -139,14 +139,14 @@
             // use the colors object to style
             // each polygon a unique color
             return {
-              color: colors.Vivid[10][feature.properties.OBJECTID - 1],
+              // color: colors.Vivid[10][feature.properties.BlockGr202 - 1],
               fillOpacity: 0.6,
             };
           },
 
           onEachFeature(feature, layer) {
             // select each legend list item span and append the total count of signals
-            $("Neighborhood: " + feature.properties.BlockGr202);
+            // $("Neighborhood: " + feature.properties.OBJECTID);
 
             //when mousing over a polygon layer
             layer.on("mouseover", function () {
@@ -157,9 +157,9 @@
 
               // select the cooresponding list item
               // and add the highlight class to make bold
-              $("Neighborhood: " + feature.properties.BlockGr202).addClass(
-                "highlight"
-              );
+              // $("Neighborhood: " + feature.properties.BlockGr202).addClass(
+              //   "highlight"
+              // );
             });
             layer.on("mouseout", function () {
               this.setStyle({
