@@ -1,0 +1,4595 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211500128",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "660 HUNTINGTON AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2115"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.1014819, 42.335527] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211500131",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "677 HUNTINGTON AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2115"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.1030359, 42.334994] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211500223",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "625 HUNTINGTON AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2115"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0998608, 42.336215] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211500132",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "722 HUNTINGTON AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2115"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.1043778, 42.33421] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211500137",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "188 LONGWOOD AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2115"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.1019222, 42.3365] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211500117",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "550 HUNTINGTON AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2115"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0955526, 42.336781] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211500007",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "260 LONGWOOD AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2115"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.1038845, 42.337248] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211500099",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "300 LONGWOOD AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2115"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.1054918, 42.337397] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211500133",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "805 HUNTINGTON AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2115"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.1083179, 42.333427] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211500109",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "230 FENWAY",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2115"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.096839, 42.338913] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211500110",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "300 FENWAY",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2115"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.099827, 42.339504] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211500078",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "20 VINING ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2115"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.1084243, 42.3349547] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211500098",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "333 LONGWOOD AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2115"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.1057927, 42.337995] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211500105",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "44 BINNEY ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2115"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.1067515, 42.337725] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211500113",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "74 FENWOOD RD",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2115"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.1087628, 42.335601] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211500134",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "836 HUNTINGTON AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2115"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.1097454, 42.333177] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211500226",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "400 FENWAY",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2115"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.1020581, 42.340588] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221500004",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "454 BROOKLINE AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2215"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.1088895, 42.337434] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221500009",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "400 BROOKLINE AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2215"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.1076742, 42.338618] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211500135",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "50 LEON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2115"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0906889, 42.338513] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221500010",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "330 BROOKLINE AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2215"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.1056854, 42.340203] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211500114",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "104 FORSYTH ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2115"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0899173, 42.338189] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221500055",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "125 PARK DR",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2215"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.097738, 42.34166407] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221500058",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "81 KILMARNOCK ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2215"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0993196, 42.342304] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221500039",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "102 PILGRIM RD",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2215"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.1066449, 42.341064] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221500057",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "124 JERSEY ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2215"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.09683345, 42.34262622]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221500037",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "395 LONGWOOD AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2215"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.1089769, 42.34005] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221500056",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "133 PETERBOROUGH ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2215"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.1002793, 42.34294496] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211500116",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "175 HEMENWAY ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2115"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0911927, 42.341] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221500066",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "100 RIVERWAY",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2215"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.1034299, 42.34278] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221500038",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "37 PILGRIM RD",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2215"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.1050647, 42.34246] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211500160",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "84 THE FENWAY",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2115"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.091427, 42.342247] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221500059",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "401 PARK DR",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2215"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.1032421, 42.34389514] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221500062",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "16 PETERBOROUGH ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2215"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.09586411, 42.34407604]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221500065",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "1295 BOYLSTON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2215"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.09755926, 42.34464507]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211500159",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "87 SAINT STEPHEN ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2115"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0884277, 42.341551] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221500092",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "1280 BOYLSTON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2215"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.09686859, 42.34471275]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211500115",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "115 GAINSBOROUGH ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2115"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0899331, 42.34256] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221500047",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "126 BROOKLINE AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2215"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.10034193, 42.34544029]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211500122",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "290 HUNTINGTON AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2115"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.086758, 42.341305] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221500060",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "1247 BOYLSTON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2215"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.09528361, 42.34530927]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221500040",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "109 BROOKLINE AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2215"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.09995543, 42.34588551]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211500121",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "289 HUNTINGTON AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2115"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.086439, 42.341632] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221500030",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "452 PARK DR",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2215"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.1047177, 42.345627] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211500238",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "52 WESTLAND AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2115"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0882352, 42.343748] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221500053",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "1179 BOYLSTON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2215"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.09361265, 42.34629014]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221500011",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "38 FENWAY",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2215"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.09058617, 42.34536112]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221500064",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "82 BROOKLINE AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2215"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.09856804, 42.34706691]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221500164",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "880 BEACON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2215"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.10562139, 42.34663954]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211500152",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "301 MASSACHUSETTS AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2115"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0860449, 42.343318] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221500028",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "829 BEACON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2215"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.1026749, 42.34726903] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221500061",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "1 LANSDOWNE ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2215"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.094492, 42.34719046] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211500120",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "236 HUNTINGTON AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2115"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0844581, 42.343106] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221500025",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "700 BEACON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2215"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.09922818, 42.34827682]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221500029",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "506 PARK DR",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2215"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.1057352, 42.347565] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221500069",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "677 BEACON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2215"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0987523, 42.34835919] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211500145",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "207 MASSACHUSETTS AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2115"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0864448, 42.344915] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221500013",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "1126 BOYLSTON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2215"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.08888456, 42.3469065] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211500151",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "161 MASSACHUSETTS AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2115"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0872306, 42.346351] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221500082",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "466 COMMONWEALTH AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2215"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.093322, 42.34878751] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221500014",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "609 COMMONWEALTH AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2215"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.10100952, 42.34946936]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211500119",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "220 HUNTINGTON AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2115"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.083011, 42.344204] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221500026",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "700 COMMONWEALTH AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2215"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.10396642, 42.34958762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211500106",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "1044 BOYLSTON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2115"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.08733908, 42.34730266]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221500042",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "400 COMMONWEALTH AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2215"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.090721, 42.34882051] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221500068",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "59 BAY STATE RD",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2215"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0954809, 42.349969] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211500142",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "100 MASSACHUSETTS AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2115"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.08817944, 42.3482206] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221500015",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "409 COMMONWEALTH AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2215"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.09098103, 42.34922045]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211500104",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "40 DALTON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2115"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0850463, 42.346831] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221500067",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "199 BAY STATE RD",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2215"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.1024181, 42.350544] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211500141",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "86 MASSACHUSETTS AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2115"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.08837215, 42.34865315]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221500091",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "725 COMMONWEALTH AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2215"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.106083, 42.350089] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221500070",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "225 BAY STATE RD",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2215"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.1034424, 42.35055] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221500019",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "728 COMMONWEALTH AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2215"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.1069147, 42.349926] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211500140",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "60 MASSACHUSETTS AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2115"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.08879317, 42.34949846]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600132",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "120 HUNTINGTON AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.08136444, 42.34570914]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221500052",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "526 BEACON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2215"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.09077068, 42.35052188]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211500139",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "44 MASSACHUSETTS AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2115"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0889531, 42.350046] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211500154",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "300 NEWBURY ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2115"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.08498515, 42.34890201]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211500138",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "21 MASSACHUSETTS AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2115"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0894543, 42.35076] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600120",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "465 COLUMBUS AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0780067, 42.343793] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211500107",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "311 COMMONWEALTH AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2115"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.08637793, 42.34989002]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211500108",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "308 COMMONWEALTH AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2115"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.08570251, 42.34966208]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600036",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "885 BOYLSTON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.08362, 42.348627] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600166",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "8 GARRISON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.07978459, 42.34605288]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "220500002",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "25 DORCHESTER AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2205"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0534255, 42.350749] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "220500010",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "25 DORCHESTER AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2205"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0534392, 42.35075] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "220500001",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "25 DORCHESTER AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2205"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0534536, 42.350753] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "220500006",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "25 DORCHESTER AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2205"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0536221, 42.35053] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "220500014",
+        "BUSNAME": "USPS COLLECTION BOX - APC",
+        "ADDR1": "25 DORCHESTER AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2205"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.05355675, 42.35042572]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "220500016",
+        "BUSNAME": "USPS COLLECTION BOX - APC",
+        "ADDR1": "25 DORCHESTER AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2205"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.05355675, 42.35042572]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "220500032",
+        "BUSNAME": "USPS COLLECTION BOX - PO LOBBY",
+        "ADDR1": "25 DORCHESTER AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2205"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.05355675, 42.35042572]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "220500013",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "25 DORCHESTER AVE REAR",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2205"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0546296, 42.351112] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221000021",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "263 SUMMER ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2210"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0506977, 42.3505] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221000008",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "268 SUMMER ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2210"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0504509, 42.350296] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221000006",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "268 SUMMER ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2210"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0504228, 42.350261] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221000052",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "1 SOUTH STA",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2210"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0553206, 42.352518] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221000017",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "1 SOUTH STA",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2210"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0553307, 42.352516] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221000025",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "330 CONGRESS ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2210"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0496519, 42.35097] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221000051",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "280 SUMMER ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2210"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0498641, 42.349991] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221000023",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "330 CONGRESS ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2210"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0495833, 42.350998] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211000074",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "175 FEDERAL ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2110"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.056042, 42.353321] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211100041",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "138 SOUTH ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2111"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0575019, 42.350682] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211100015",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "138 SOUTH ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2111"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0575031, 42.350678] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221000028",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "319 A ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2210"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0494459, 42.349119] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211100014",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "89 SOUTH ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2111"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.057466, 42.351768] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211100016",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "89 SOUTH ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2111"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.057466, 42.351768] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221000024",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "368 CONGRESS ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2210"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0487208, 42.350516] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211100005",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "183 ESSEX ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.05750861, 42.35215348]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211000033",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "125 SUMMER ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2110"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.057132, 42.353271] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221000020",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "321 SUMMER ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2210"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0484123, 42.34951] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211000035",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "125 SUMMER ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2110"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.05736189, 42.35332123]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211000151",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "211 CONGRESS ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2110"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.054811, 42.354765] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211100050",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "183 ESSEX ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2111"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0580086, 42.352539] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221000018",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "249 A ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2210"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0511274, 42.347021] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211100053",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "179 LINCOLN ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2111"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0587699, 42.350669] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211100052",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "179 LINCOLN ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2111"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0587592, 42.35040971] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211000008",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "126 HIGH ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2110"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.053894, 42.355267] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211100054",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "179 LINCOLN ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2111"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.058824, 42.350273] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211000175",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "408 ATLANTIC AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2110"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0509876, 42.355023] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211100037",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "210 LINCOLN ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2111"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0589104, 42.35009] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211100004",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "210 LINCOLN ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2111"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0589409, 42.350111] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211000124",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "101 FEDERAL ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2110"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.056593, 42.354927] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211000065",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "10 WINTHROP SQ",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2110"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0574944, 42.354543] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211100011",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "88 KINGSTON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2111"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0596178, 42.352597] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211000028",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "99 ATLANTIC AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2110"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0507307, 42.355917] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211000021",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "185 FRANKLIN ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2110"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0550091, 42.356118] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211100017",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "61 BEACH ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2111"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0604014, 42.351308] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211100048",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "75 KNEELAND ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2111"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0604983, 42.350407] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211000072",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "70 FRANKLIN ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2110"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0584538, 42.355358] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211000040",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "46 SUMMER ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2110"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0594062, 42.354564] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211100010",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "38 CHAUNCY ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2111"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0602335, 42.353775] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211100008",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "50 ESSEX ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2111"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0610209, 42.352615] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211100031",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "68 HARRISON AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2111"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.061329, 42.351188] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211000117",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "53 SUMMER ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2110"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0595403, 42.354855] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211100056",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "125 HARRISON AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2111"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0614149, 42.350542] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "210900092",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "79 MILK ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2109"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.056492, 42.356769] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211000007",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "57 FRANKLIN ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2110"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0584456, 42.355847] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "210900091",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "79 MILK ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2109"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0568209, 42.356715] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211000070",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "88 BROAD ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2110"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0527936, 42.357535] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221000110",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "1 MARINA PARK DR",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2210"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.044986, 42.35309] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "210900013",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "1 FEDERAL ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2109"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0573629, 42.356733] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "210900157",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "10 POST OFFICE SQ",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.05597972, 42.35721727]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211100021",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "136 HARRISON AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2111"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0618851, 42.349725] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "210900188",
+        "BUSNAME": "USPS COLLECTION BOX - PO LOBBY",
+        "ADDR1": "31 MILK ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.05794312, 42.35671251]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "210900168",
+        "BUSNAME": "USPS COLLECTION BOX - APC",
+        "ADDR1": "31 MILK ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2109"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0581092, 42.35676] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211100020",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "171 HARRISON AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2111"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.061976, 42.349154] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211100009",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "600 WASHINGTON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.06223101, 42.35284899]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "210900017",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "40 BROAD ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2109"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0538646, 42.358187] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "210900016",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "33 BROAD ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2109"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0543513, 42.35828] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211100057",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "60 TEMPLE PL",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.06139098, 42.35509898]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211100059",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "199 HARRISON AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2111"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0624125, 42.348133] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "210900080",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "177 MILK ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2109"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0526523, 42.358654] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "210900057",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "1 INDIA ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2109"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0536024, 42.358969] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "210900005",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "1 INDIA ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2109"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.054235, 42.358977] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211000023",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "260 ATLANTIC AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2110"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0512824, 42.358971] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600222",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "45 STUART ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0639393, 42.350947] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221000087",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "155 SEAPORT BLVD",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2210"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.04237504, 42.35025277]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "210900010",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "120 STATE ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2109"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0544561, 42.359181] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "210900101",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "84 STATE ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.05569425, 42.35904613]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "210800107",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "15 COURT SQ",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2108"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.058672, 42.358257] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211100019",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "150 TREMONT ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2111"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.06310198, 42.354807] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211100049",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "150 TREMONT ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2111"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.06310198, 42.354807] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211100026",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "177 TREMONT ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2111"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.064056, 42.35299898] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221000003",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "425 SUMMER ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2210"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0432757, 42.346686] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "210900006",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "2 CHATHAM ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2109"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0544984, 42.359707] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600224",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "5 OAK ST W",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0642753, 42.348361] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "210800009",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "26 COURT ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2108"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0590095, 42.358626] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "210800091",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "26 COURT ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2108"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0590095, 42.358626] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "210900040",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "255 STATE ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2109"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0512037, 42.359881] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600042",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "80 BOYLSTON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.06491004, 42.35223401]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600196",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "256 TREMONT ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0651941, 42.350555] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221000088",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "2 SEAPORT LN",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2210"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.04114626, 42.34904389]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600128",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "330 TREMONT ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0658405, 42.348644] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "210800034",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "10 PEMBERTON SQ",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.06144248, 42.35868212]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "210900069",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "24 NORTH ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2109"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.056143, 42.361047] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211400158",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "50 UNION ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2114"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.057142, 42.360948] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "210800100",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "55 UNION ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.05707206, 42.36141699]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221000058",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "2 FISH PIER",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2210"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0385019, 42.350474] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211000036",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "84 ATLANTIC AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2110"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.050949, 42.362116] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221000027",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "233 NORTHERN AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2210"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0383659, 42.348623] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "210800015",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "18 MOUNT VERNON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.06498612, 42.35826938]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600203",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "51 CHURCH ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0684583, 42.349803] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600134",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "51 CHURCH ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0684603, 42.349762] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211300005",
+        "BUSNAME": "USPS COLLECTION BOX - EXPRESS",
+        "ADDR1": "217 HANOVER ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.05539655, 42.36279279]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211300006",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "217 HANOVER ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.05539655, 42.36279279]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "210900047",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "274 NORTH ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2109"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0541441, 42.363009] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "210900038",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "190 COMMERCIAL ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2109"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0516599, 42.362995] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211400057",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "41 TEMPLE ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2114"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0638245, 42.359994] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600044",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "250 BOYLSTON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.06925203, 42.351945] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "210800019",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "40 MOUNT VERNON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.06631037, 42.35820863]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600126",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "138 ARLINGTON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0693763, 42.348689] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "210900041",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "240 COMMERCIAL ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2109"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0511341, 42.363713] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211000037",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "32 ATLANTIC AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2110"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.050918, 42.363783] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211400063",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "25 NEW CHARDON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2114"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.061741, 42.362118] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211400076",
+        "BUSNAME": "USPS COLLECTION BOX - EXPRESS",
+        "ADDR1": "25 NEW CHARDON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2114"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.061741, 42.362118] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600168",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "440 TREMONT ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0691384, 42.346513] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211400059",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "45 MYRTLE ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2114"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.06616, 42.359535] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600122",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "310 STUART ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.07033114, 42.34995756]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211400139",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "24 NEW CHARDON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2114"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.06170532, 42.36252077]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211300004",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "31 PARMENTER ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2113"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0553825, 42.364179] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600017",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "6 SAINT JAMES AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.07059454, 42.35094143]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211300008",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "99 ENDICOTT ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.05727425, 42.36427434]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211400074",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "48 CANAL ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2114"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.05939582, 42.36382408]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211400019",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "65 ANDERSON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2114"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0677184, 42.35901352] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221000053",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "12 CHANNEL ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2210"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0367886, 42.345095] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600198",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "344 BOYLSTON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.07116376, 42.35172948]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600160",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "200 COLUMBUS AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0714159, 42.348825] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600158",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "40 BERKELEY ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0705454, 42.346147] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600057",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "9 NEWBURY ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.07157772, 42.35253902]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600124",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "95 BERKELEY ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0710377, 42.347027] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211400073",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "104 CANAL ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2114"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0602155, 42.364305] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600059",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "146 BERKELEY ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0717563, 42.348753] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600190",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "10 NEWBURY ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0720029, 42.352373] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600076",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "399 BOYLSTON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.072091, 42.351795] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211400021",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "240 CAMBRIDGE ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2114"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0668575, 42.360993] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211400066",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "77 N WASHINGTON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2114"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.058015, 42.365007] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211400072",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "50 STANIFORD ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2114"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.064531, 42.362595] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211400136",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "59 CHARLES ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2114"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.070093, 42.357726] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211400009",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "60 CARDINAL OCONNELL WAY",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2114"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.06516574, 42.36258653]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211400080",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "1 YAWKEY WAY",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2114"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.06512, 42.36268] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211400017",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "41 PHILLIPS ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2114"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.068131, 42.360498] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211300002",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "97 PRINCE ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.05630194, 42.36573055]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "210900187",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "343 COMMERCIAL ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.05112756, 42.36591137]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600208",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "8 ARLINGTON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0722485, 42.354432] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221000099",
+        "BUSNAME": "USPS COLLECTION BOX - EXPRESS",
+        "ADDR1": "2 HARBOR ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2210"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0350777, 42.345012] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211400018",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "40 WEST CEDAR ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2114"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.06995861, 42.35873481]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211300001",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "160 SALEM ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2113"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0552025, 42.365943] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211300007",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "396 HANOVER ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2113"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0529615, 42.366033] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600029",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "443 BOYLSTON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0730225, 42.35157] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600191",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "38 NEWBURY ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.07299307, 42.35211103]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211400070",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "151 MERRIMAC ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2114"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.063082, 42.364278] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600056",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "45 NEWBURY ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.07314695, 42.35211901]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211400036",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "125 CAUSEWAY ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2114"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.061183, 42.365196] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600080",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "42 COMMONWEALTH AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0733418, 42.352982] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600228",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "551 TREMONT ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0717221, 42.344242] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211700006",
+        "BUSNAME": "USPS COLLECTION BOX - APC",
+        "ADDR1": "133 CLARENDON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2117"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0734033, 42.348383] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211400044",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "275 CAMBRIDGE ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2114"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0681895, 42.361641] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211400004",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "108 CHARLES ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2114"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.070903, 42.358905] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600159",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "73 WARREN AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0724899, 42.344832] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211400029",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "251 CAUSEWAY ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2114"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0589105, 42.366393] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600123",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "76 APPLETON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0729608, 42.345635] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600157",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "160 CLARENDON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0737422, 42.347702] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211400003",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "136 CHARLES ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2114"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.07079334, 42.35970124]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211400005",
+        "BUSNAME": "USPS COLLECTION BOX - EXPRESS",
+        "ADDR1": "136 CHARLES ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2114"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.07079334, 42.35970124]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211700007",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "133 CLARENDON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2117"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0739961, 42.348394] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221000015",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "1 DESIGN CENTER PL",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2210"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0336954, 42.344615] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221000014",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "1 DESIGN CENTER PL",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2210"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0336919, 42.344616] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211300010",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "217 ENDICOTT ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.05817562, 42.36668011]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600105",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "29 COMMONWEALTH AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0741507, 42.353204] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "210800064",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "1 BRIMMER ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2108"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0717793, 42.3587217] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "210900050",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "436 COMMERCIAL ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2109"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0526945, 42.367293] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211400143",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "161 CHARLES ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2114"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.070282, 42.360777] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211400014",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "75 BLOSSOM CT",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2114"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0666685, 42.364341] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600153",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "136 BEACON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.07490045, 42.35481393]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600047",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "185 DARTMOUTH ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.07647996, 42.34848317]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600010",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "535 BOYLSTON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.07557701, 42.35087501]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600108",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "145 DARTMOUTH ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.07589733, 42.347194] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600081",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "110 NEWBURY ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.07583534, 42.35134311]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600012",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "607 BOYLSTON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.077239, 42.350427] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600156",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "329 COLUMBUS AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.074942, 42.346136] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600054",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "147 NEWBURY ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0774506, 42.35094391] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600135",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "90 COMMONWEALTH AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0758833, 42.352283] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600341",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "47 HUNTINGTON AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.07842358, 42.34824207]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600034",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "667 BOYLSTON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.07868581, 42.34974398]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600173",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "65 COMMONWEALTH AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0760611, 42.352758] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600138",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "173 NEWBURY ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0790662, 42.350538] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600201",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "711 BOYLSTON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.07980835, 42.34943896]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600206",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "306 DARTMOUTH ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0785044, 42.352234] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600179",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "192 COMMONWEALTH AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0801422, 42.35112] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600139",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "208 NEWBURY ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0806835, 42.350066] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600111",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "182 BEACON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0770443, 42.354194] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600350",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "797 BOYLSTON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.081712, 42.349221] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600117",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "236 BEACON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0792676, 42.35358] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600058",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "235 NEWBURY ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0820144, 42.349779] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600051",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "11 EXETER ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0809889, 42.352321] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600112",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "1 EXETER ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0811193, 42.35312] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600180",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "250 COMMONWEALTH AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0828946, 42.350367] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600340",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "279 NEWBURY ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0839059, 42.349277] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600113",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "336 BEACON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.08376826, 42.35240093]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211600182",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "273 COMMONWEALTH AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2116"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.084588, 42.35043] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221500182",
+        "BUSNAME": "USPS COLLECTION BOX - APC",
+        "ADDR1": "800 BOYLSTON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2215"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.082724, 42.348602] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211500103",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "448 BEACON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2115"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0872277, 42.351476] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211500102",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "474 BEACON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2115"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0881704, 42.351246] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211400046",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "243 CHARLES ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2114"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.070138, 42.362748] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211400012",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "0 SCIENCE PK",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2114"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.06966285, 42.36725743]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "211400047",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "90 BLOSSOM ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2114"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.06905352, 42.36414508]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212200019",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "251 BOWDOIN ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2122"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0667675, 42.306201] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212200020",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "475 GENEVA AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2122"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.06495501, 42.29946805]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212200100",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "42 CHARLES ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2122"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.06357721, 42.30005851]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212200028",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "218 ADAMS ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2122"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.05970955, 42.3014293] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212200015",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "1522 DORCHESTER AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2122"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.06058683, 42.29867809]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212200004",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "1586 DORCHESTER AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2122"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0612224, 42.296338] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212200096",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "18 CLAYTON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2122"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.05614938, 42.30391848]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212200003",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "282 CENTRE ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2122"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0618899, 42.293677] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212200002",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "349 ADAMS ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2122"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0567794, 42.29748] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212200029",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "447 ADAMS ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2122"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.05688134, 42.29405065]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212200012",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "317 FREEPORT ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2122"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.051292, 42.30171] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212200110",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "70 VICTORY RD",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2122"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.05267797, 42.29620647]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212200016",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "108 NEPONSET AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2122"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.05267426, 42.2946797] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212200013",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "719 WILLIAM T MORRISSEY BLVD",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2122"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0498025, 42.297309] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212200030",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "108 TRAIN ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2122"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.05365, 42.292179] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212200005",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "172 NEPONSET AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2122"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.050699, 42.292958] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212200023",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "735 MORRISSEY BLVD",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2122"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.04837716, 42.29590132]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212200006",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "627 ADAMS ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2122"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0554661, 42.28839037] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212200010",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "818 MORRISSEY BLVD",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2122"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.04706411, 42.29409034]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212200007",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "707 ADAMS ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2122"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.05521322, 42.28508275]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212200008",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "266 NEPONSET AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2122"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.04819201, 42.28982056]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212200021",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "320 NEPONSET AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2122"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0469315, 42.288714] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221500032",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "860 COMMONWEALTH AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2215"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.1140705, 42.350763] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221500035",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "900 COMMONWEALTH AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2215"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.1161333, 42.351016] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221500034",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "940 COMMONWEALTH AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2215"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.1184389, 42.351279] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221500022",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "1001 COMMONWEALTH AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2215"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.1210831, 42.351895] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221500079",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "275 BABCOCK ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2215"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.1210051, 42.35296] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221500024",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "1016 COMMONWEALTH AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2215"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.12146217, 42.35168462]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221500031",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "1041 COMMONWEALTH AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2215"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.1225318, 42.352065] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221500051",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "1066 COMMONWEALTH AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2215"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.1233646, 42.3519] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212800043",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "500 TERMINAL E",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2128"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.00084, 42.396855] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212800057",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "440 MCCLELLAN HGWY",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2128"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0127682, 42.393231] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212800049",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "440 MCCLELLAN HGWY",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2128"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0127678, 42.393226] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212800020",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "111 ORIENT AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2128"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0062805, 42.390604] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212800030",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "14 LEYDEN ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2128"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0123176, 42.390804] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212800021",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "1229 BENNINGTON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2128"
+      },
+      "geometry": { "type": "Point", "coordinates": [-70.9970911, 42.389841] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212800022",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "42 BREED ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2128"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0065003, 42.388398] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212800027",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "3 WALLEY ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2128"
+      },
+      "geometry": { "type": "Point", "coordinates": [-70.9994531, 42.389153] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212800029",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "1035 SARATOGA ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2128"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0051589, 42.386046] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212800018",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "88 BRANDYWINE DR",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2128"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0133694, 42.386443] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212800028",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "856 BENNINGTON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2128"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0092856, 42.38593] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212800023",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "1094 SARATOGA ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2128"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0028099, 42.385281] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212800019",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "622 BENNINGTON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2128"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0164421, 42.383443] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212800024",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "515 BENNINGTON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2128"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0202295, 42.381846] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212800025",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "464 BREMEN ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2128"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0259108, 42.38013] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212800014",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "257 LEXINGTON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2128"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.030571, 42.380316] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212800026",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "315 BENNINGTON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2128"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0276549, 42.379064] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212800006",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "84 CONDOR ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2128"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0371057, 42.382625] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212800013",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "470 MERIDIAN ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2128"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0394222, 42.382681] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212800031",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "108 TRENTON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2128"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0353211, 42.379358] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212800012",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "401 BORDER ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2128"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0402803, 42.380966] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212800033",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "81 LEXINGTON ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2128"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0369559, 42.377874] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212800002",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "30 S BREMEN ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2128"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0395284, 42.367881] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212800008",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "264 SUMNER ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2128"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0378404, 42.368013] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212800058",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "256 MARGINAL ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2128"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0337121, 42.36439] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212800009",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "328 SUMNER ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2128"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0360266, 42.367276] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212200026",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "757 GALLIVAN BLVD",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2122"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.044803, 42.283908] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212200011",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "102 WALNUT ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2122"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0402895, 42.288273] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212200009",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "398 NEPONSET AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2122"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0440245, 42.28677] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221000013",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "23 DRYDOCK AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2210"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0315284, 42.344604] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212800011",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "357 MERIDIAN ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2128"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0391373, 42.378703] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212800095",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "235 MERIDIAN ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2128"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.03909628, 42.375816] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212800094",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "210 BORDER ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.03983794, 42.37532442]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212800051",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "200 TERMINAL B",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2128"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.057082, 42.381944] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212800015",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "113 CHELSEA ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2128"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0353686, 42.372775] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212800062",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "50 MERIDAN ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2128"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0392115, 42.371093] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212800075",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "50 MERIDAN ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2128"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0392096, 42.37109] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212800034",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "50 MAVERICK SQ",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2128"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0387599, 42.370129] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212800016",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "149 COTTAGE ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2128"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0334263, 42.369508] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212800017",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "241 MAVERICK ST",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2128"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0349064, 42.368408] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212800010",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "3 MCCORMACK SQ",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2128"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0307984, 42.364848] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221500021",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "1101 COMMONWEALTH AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2215"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.1252841, 42.352007] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212800056",
+        "BUSNAME": "USPS COLLECTION BOX - EXPRESS",
+        "ADDR1": "1 HARBORSIDE DR",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2128"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0253577, 42.362528] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "212800074",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "1 HARBORSIDE DR",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2128"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.0253524, 42.362515] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿OUTLETID": "221000086",
+        "BUSNAME": "USPS COLLECTION BOX - BLUE BOX",
+        "ADDR1": "88 BLACK FALCON AVE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": "2210"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.02252945, 42.34432347]
+      }
+    }
+  ]
+}

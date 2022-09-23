@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+
+    <title>Lesson 02 template</title>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+    />
+    <style>
+      body {
+        font-family: sans-serif;
+        margin: 0;
+        padding: 0;
+      }
+
+      #map {
+        position: absolute;
+        width: 100%;
+        top: 0;
+        bottom: 0;
+      }
+      #ui {
+        position: absolute;
+        z-index: 1000; /* place above map */
+        bottom: 18px;
+        right: 18px;
+        padding: 6px 12px;
+        background: rgba(256, 256, 256, 0.9);
+      }
+
+      #ui ul {
+        list-style-type: none;
+        padding: 0;
+      }
+      #ui li {
+        margin-bottom: 6px;
+      }
+      #ui a {
+        text-decoration: none;
+      }
+      #ui a:hover {
+        font-weight: bold;
+      }
+      .highlight {
+        font-weight: bold;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div id="ui">
+      <h3>Austin City Districts</h3>
+      <h4>(number of traffic signals)</h4>
+      <ul id="legend-list"></ul>
+    </div>
+
+    ;
+
+    <div id="map"></div>
+
+    <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://d3js.org/d3-fetch.v1.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script>
+      // map options
+      const options = {
+        center: [30.30927, -97.74211],
+        zoom: 10,
+      };
+      // instantiate Leaflet map
+      const map = L.map("map", options);
+
+      // add CARTO voyager tiles with no labels
+      L.tileLayer(
+        "https://cartodb-basemaps-{s}.global.ssl.fastly.net/rastertiles/voyager_nolabels/{z}/{x}/{y}.png",
+        {
+          maxZoom: 18,
+          attribution:
+            '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>, &copy;<a href="https://carto.com/attribution">CARTO</a>',
+        }
+      ).addTo(map);
+
+      // use D3 fetch to request data with async requests
+      const districtsData = d3.json("../data/austin-districts-counts.json");
+      const colorsData = d3.json("../data/vividcolors.json");
+      const trafficData = d3.json("../data/austin-traffic-signals.json");
+
+      // use Promise to wait until data is all loaded
+      Promise.all([districtsData, colorsData, trafficData]).then(drawMap);
+
+      function drawMap(data) {
+        // function is called when Promise is fulfilled and data is ready
+
+        // inspect array of data
+        console.log(data);
+
+        // pull out separate data arrays and assign to variables
+        const districts = data[0];
+        const colors = data[1];
+        const signals = data[2];
+
+        // create a layerGroup with the geojson data
+        // create a layerGroup with the geojson data
+        const districtsLayerGroup = L.geoJson(districts, {
+          style: function (feature) {
+            // use the colors object to style
+            // each polygon a unique color
+            return {
+              color: colors.Vivid[10][feature.properties.council_di - 1],
+              fillOpacity: 0.6,
+            };
+            
+          },
+          
+          onEachFeature(feature, layer) {
+            // select each legend list item span and append the total count of signals
+            $("#district-" + feature.properties.council_di + " span").append(
+              feature.properties.count
+            );
+
+            
+
+            //when mousing over a polygon layer
+            layer.on("mouseover", function () {
+              // provide a visual affordance
+              this.setStyle({
+                fillOpacity: 0.8,
+              });
+
+              
+              
+
+              // select the cooresponding list item
+              // and add the highlight class to make bold
+              $("#district-" + feature.properties.council_di).addClass(
+                "highlight"
+              );
+              
+            });
+          },
+          
+        }).addTo(map);
+        const legendList = $("#legend-list");
+
+for (let i = 1; i <= districts.features.length; i++) {
+  legendList.append(
+    '<li class="legend-item" id="district-' +
+      i +
+      '"><a style="color:' +
+      colors.Vivid[10][i - 1] +
+      '" href="#">District ' +
+      i +
+      " (<span></span>)</a></li>"
+  );
+}
+        
+      }
+    </script>
+  </body>
+</html>

@@ -1,0 +1,25 @@
+{
+  "name": "map675-module-02-willchilders1",
+  "version": "1.0.0",
+  "description": "Module 02 will introduce you to Node and npm, a server-side JavaScript framework and \"package manager\" for the world's most extensive collection of open source geospatial JavaScript resources. You will learn how to install packages globally using the `-g` flag, such as live-server and the Mapshaper client, which can then be used from any location on the computer system. You will learn how to initialize npm project for specific projects and track packages installed locally using the _package.json_ file. You will then practice using Node and npm by writing several Node scripts for processing JSON and CSV data to automate your workflow and produce web-ready GeoJSON files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newmapsplus/map675-module-02-willchilders1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newmapsplus/map675-module-02-willchilders1/issues"
+  },
+  "homepage": "https://github.com/newmapsplus/map675-module-02-willchilders1#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "csv-parse": "^5.3.0",
+    "csv2geojson": "^3.8.0"
+  },
+  "type": "module"
+}
